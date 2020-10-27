@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","GoodList.css","Select.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,eAAgB,CAChB,iBACF,CCJA,MACE,SAAU,CACV,eACF,CCHA,QACE,cACF","file":"main.3936bd3d.chunk.css","sourcesContent":[".App {\n  padding: 30px;\n  max-width: 600px;\n  text-align: center;\n}\n",".list {\n  padding: 0;\n  list-style: none;\n}\n",".select {\n  max-width: 50px;\n}\n"]}
